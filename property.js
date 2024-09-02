@@ -11,6 +11,8 @@ const personInfos = {
 const personCars = personInfos.car;
 // console.log(personCars)
 
+
+// bracket notation []
 // console.log(personInfos['name'])
 const personName = personInfos['name'];
 // console.log(personName)
@@ -18,4 +20,4 @@ const personName = personInfos['name'];
 // console.log(personInfos["gf Names"])
 
 const girlFrndName = personInfos["gf Names"];
-console.log(girlFrndName)
+// console.log(girlFrndName)
