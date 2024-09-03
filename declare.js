@@ -4,3 +4,6 @@ const car = new Object();
 console.log(car)
 const company = Object.create({});
 console.log(company)
+
+
+
